@@ -1,8 +1,7 @@
-﻿# node-csv-mongodb
+﻿# mongobd-import-csv
 
 Repositório criado para demonstrar como nós podemos importar dados de um arquivo .csv para uma base de dados mongoDB.
 
-link do artigo demonstrando cada um dos passos do código desse repositório: [Node - CSV - Mongo](https://programadriano.medium.com/node-js-importando-dados-de-um-arquivo-csv-para-o-mongodb-1156b0a05541)
 
 ## Desenvolvimento
 
